@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://campus-connect-backend-kk34.onrender.com/api/$1"
+    }
+  ]
+}
